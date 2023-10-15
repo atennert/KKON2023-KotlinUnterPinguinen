@@ -1,0 +1,5 @@
+headers = log4c.h
+compilerOpts = -I/usr/include \
+    -I/usr/include/log4c
+linkerOpts = -L/usr/lib -L/usr/lib/x86_64-linux-gnu \
+    -llog4c

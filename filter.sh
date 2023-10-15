@@ -1,0 +1,1 @@
+./build/bin/native/csv-filterReleaseExecutable/csv-filter.kexe -i 0 -n city -n "phone number" < test.csv > result.csv
